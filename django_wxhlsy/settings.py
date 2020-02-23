@@ -25,8 +25,10 @@ SECRET_KEY = 'k#o_ik(&6s8i!d+@m_uku%l5(vb(vs38j09efn^^(cl@y%n8#b'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'wxhlsy.xyz',
-    'www.wxhlsy.xyz',
+    # 'wxhlsy.xyz',
+    # 'www.wxhlsy.xyz',
+    'xthlsy.com',
+    'www.xthlsy.com',
     '127.0.0.1',
     '106.13.41.87',
 ]
